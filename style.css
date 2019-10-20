@@ -241,3 +241,341 @@ p a.more {
 #body div #newsblog ul li div h2 a:hover {
 	color: #fff799;
 }
+#body div div#surfbase > div {
+	overflow: hidden;
+	padding: 12px 0 42px;
+	position: relative;
+}
+#body div #surfbase div div {
+	float: left;
+	width: 299px;
+}
+#body div #surfbase div div h3,
+#body div #surfbase h3 {
+	font-family: 'arvoregular';
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 24px;
+	margin: 0;
+	padding: 10px 0 0;
+}
+#body div #surfbase div a.figure {
+	float: right;
+}
+#body div #surfbase div a.blog {
+	background: url(../alec/interface.png) no-repeat 0 -240px;
+	color: #fff799;
+	display: block;
+	font-family: 'arvobold';
+	font-size: 14px;
+	height: 74px;
+	line-height: 24px;
+	padding: 26px 0 0;
+	position: absolute;
+	right: 0;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	top: 30px;
+	width: 100px;
+}
+#body div #surfbase div a.blog:hover {
+	background: url(../alec/interface.png) no-repeat -101px -240px;
+}
+#body div #surfbase div a.blog span {
+	display: block;
+	font-size: 18px;
+}
+#body div #surfbase h3,
+#body div #newsblog ul li:first-child,
+#body div #about div div.section h2 {
+	padding: 0;
+}
+#body div #surfbase img.figure {
+	display: block;
+	padding: 40px 0 6px;
+}
+#body div #newsblog ul {
+	list-style: none;
+	margin: 0;
+	padding: 0 0 53px;
+}
+#body div #newsblog ul li {
+	overflow: hidden;
+	padding: 48px 0 0;
+}
+#body div #newsblog ul li div:first-child {
+	float: left;
+	position: relative;
+	width: 220px;
+}
+#body div #newsblog ul li div {
+	float: right;
+	width: 460px;
+}
+#body div #newsblog ul li div span {
+	background: url(../alec/interface.png) no-repeat;
+	color: #fff799;
+	display: block;
+	font-family: 'arvobold';
+	font-size: 14px;
+	height: 59px;
+	left: 0;
+	line-height: 24px;
+	padding: 11px 16px 0;
+	position: absolute;
+	text-align: center;
+	text-transform: uppercase;
+	top: 0;
+	width: 38px;
+	z-index: 1;
+}
+#body div #newsblog ul li div h2 {
+	font-family: 'arvoregular';
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 24px;
+	margin: 0;
+	padding: 0 0 27px;
+	text-transform: uppercase;
+}
+#body div #newsblog div div {
+	float: left;
+	margin: 0 0 0 20px;
+	width: 220px;
+}
+#body div #newsblog div div p a {
+	text-decoration: none;
+}
+#body div #newsblog div div p a:hover {
+	color: #d1d3d4;
+	text-decoration: underline;
+}
+#body div #newsblog div div:first-child {
+	margin: 0;
+}
+#body div #about div:first-child {
+	padding: 0 0 40px;
+}
+#body div #about div:first-child div {
+	float: left;
+	padding: 32px 0 0;
+	width: 300px;
+}
+#body div #about div img.figure {
+	display: block;
+	float: right;
+}
+#body div #about div h2,
+#body div #about div div.section h2,
+#body div #contact h2 {
+	color: #fff799;
+	font-family: 'ultraregular';
+	font-size: 30px;
+	font-weight: normal;
+	line-height: 36px;
+	margin: 0;
+	padding: 0 0 12px;
+}
+#body div #about div div.figure {
+	float: left;
+	position: relative;
+	width: 220px;
+}
+#body div #about div div.figure a.callnow {
+	background: url(../alec/interface.png) no-repeat 0 -110px;
+	color: #fff799;
+	display: block;
+	font-family: 'arvobold';
+	font-size: 18px;
+	height: 68px;
+	line-height: 24px;
+	padding: 22px 0 0;
+	position: absolute;
+	right: 0;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	top: 135px;
+	width: 90px;
+}
+#body div #about div div.figure a.callnow:hover {
+	background: url(../alec/interface.png) no-repeat -91px -110px;
+}
+#body div #about div div.section {
+	float: right;
+	width: 460px;
+}
+#body div #about div div.section h3 {
+	font-size: 16px;
+	line-height: 24px;
+	padding: 27px 0 0;
+}
+#body div #contact h2 {
+	line-height: none;
+	margin: -5px 0 0;
+	padding: 0 0 30px;
+}
+#body div #contact div div {
+	float: left;
+	padding: 49px 0 0;
+	width: 300px;
+}
+#body div #contact div div ul {
+	list-style: none;
+	margin: 0;
+	padding: 11px 0 0;
+}
+#body div #contact div div ul li {
+	border-top: 1px solid #385aa6;
+	padding: 13px 0;
+}
+#body div #contact div div ul li span {
+	display: block;
+	font-family: 'arvoregular';
+	line-height: 24px;
+	text-transform: uppercase;
+}
+#body div #contact div div ul li:first-child {
+	border: none;
+}
+#body div #contact div form {
+	background: url(../alec/bg-contact.png) repeat;
+	float: right;
+	margin: 30px 0 0;
+	padding: 20px;
+	width: 340px;
+}
+#body div #contact div form label input {
+	border: none;
+	color: #2e2b2b;
+	display: block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	height: 35px;
+	line-height: 35px;
+	margin: 10px 0;
+	width: 340px;
+}
+#body div #contact div form label textarea {
+	border: none;
+	color: #2e2b2b;
+	display: block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	height: 275px;
+	margin: 10px 0;
+	overflow: auto;
+	resize: none;
+	width: 340px;
+}
+#body div #contact div form h3 {
+	padding: 0 0 25px;
+}
+#body div #contact div form input.send {
+	background: #d1d3d4;
+	border: none;
+	border-radius: 3px;
+	color: #50677c;
+	cursor: pointer;
+	font-size: 12px;
+	font-weight: bold;
+	height: 25px;
+	margin: 5px 0 0;
+	padding: 0 0 1px;
+	width: 60px;
+}
+#body div #contact div form input.send:hover {
+	background: #fff799;
+	color: #001f63;
+}
+#footer {
+	margin: 0 auto;
+	padding: 0 10px;
+	width: 940px;
+}
+#footer > div {
+	overflow: hidden;
+	padding: 45px 0 0;
+}
+#footer div #newsletter {
+	float: left;
+	position: relative;
+	width: 780px;
+}
+#footer div #newsletter h3 {
+	font-size: 16px;
+	padding: 0;
+	width: 417px;
+}
+#footer div #newsletter p {
+	width: 425px;
+}
+#footer div #newsletter form {
+	left: 435px;
+	margin: 0;
+	position: absolute;
+	top: 27px;
+}
+#footer div #newsletter form input {
+	background: #325c85;
+	border: none;
+	border-radius: 3px;
+	color: #94a6b6;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	height: 37px;
+	line-height: 37px;
+	padding: 0 10px;
+	width: 280px;
+}
+#footer div #connect {
+	float: right;
+	overflow: hidden;
+	width: 140px;
+}
+#footer div #connect h3,
+#body div #newsblog div div h3,
+#body div #contact h3 {
+	font-size: 16px;
+	padding: 0;
+}
+#body div #contact h3 {
+	line-height: 24px;
+}
+#footer div #connect a {
+	display: block;
+	float: left;
+	height: 26px;
+	margin: 12px 10px 0;
+	text-indent: -99999px;
+}
+#footer div #connect a#facebook {
+	background: url(../alec/icons.png) no-repeat;
+	height: 26px;
+	width: 12px;
+}
+#footer div #connect a#twitter {
+	background: url(../alec/icons.png) no-repeat 0 -35px;
+	width: 32px;
+}
+#footer div #connect a#googleplus {
+	background: url(../alec/icons.png) no-repeat 0 -97px;
+	width: 26px;
+}
+#footer div #connect a#facebook:hover {
+	background: url(../images/icons.png) no-repeat -12px 0;
+}
+#footer div #connect a#twitter:hover {
+	background: url(../alec/icons.png) no-repeat 0 -61px;
+}
+#footer div #connect a#googleplus:hover {
+	background: url(../alec/icons.png) no-repeat 0 -123px;
+}
+#footer > p {
+	color: #0f378f;
+	font-size: 12px;
+	line-height: 20px;
+	padding: 47px 0 29px;
+	text-align: center;
+}
