@@ -29,7 +29,7 @@ Home page-summary about Huzhou Universty
 -Food in China
 -Things that I buy in China
 
-##Inside App features
+## Inside App features
 HOME PAGE
 SURFBASE PAGE
 CONTACT PAGE
