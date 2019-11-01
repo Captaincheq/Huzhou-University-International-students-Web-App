@@ -1,6 +1,6 @@
 # Huzhou University International Students Web App
-     
-![Huzhou University](./alec/logo.png "My life")     
+      
+<p align="center"><img alt="Huzhou University" src="https://github.com/Captaincheq/Huzhou-University-International-students-Web-App/blob/master/alec/logo.png"></p>
 
 # Introduction
 This is a Huzhou International website. It is going to work an informative site for students in Africa, America and other nations world wide.The main reason for this website is to allow people to see the benefit of studying in Huzhou University China since people they fear to join a school which they dont have an information about.It is going to contain information  About my life at Huzhou University as a foreign student. This site will be in English for now and it will be upgraded with time.
