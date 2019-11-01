@@ -44,3 +44,5 @@ Home page-summary about Huzhou Universty
 * 1 week for correcting errors
 * 1-2 upgrading
 * Submitting when its done.
+
+<https://warpedvisions.org), and a literal <http://link.com/>
