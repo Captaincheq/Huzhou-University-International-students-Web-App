@@ -39,10 +39,13 @@ Home page-summary about Huzhou Universty
 * ABOUT PAGE
 
 ## Plan 
-* 2 weeks on front end 
-* 2 weeks on back end 
-* 1 week for correcting errors
-* 1-2 upgrading
-* Submitting when its done.
+* Week 8 : Github update 
+* Week 9 : Setting home pages and css
+* Week 10 : Completion of Front-End
+* Week 11 : Backend Optimization
+* Week 12 : Frontend Optimization
+* Week 13 : Backend Debugging and Stress testing
+* Week 14 : Upgrade Ops based on Teacher's Input
+* Week 15 : Final Release
 
 <for more click the link  https://github.com/Captaincheq/Huzhou-University-International-students-Web-App 
