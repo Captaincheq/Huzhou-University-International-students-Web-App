@@ -45,4 +45,4 @@ Home page-summary about Huzhou Universty
 * 1-2 upgrading
 * Submitting when its done.
 
-<for more click the link  https://github.com/Captaincheq/Huzhou-University-International-students-Web-App/>
+<for more click the link  https://github.com/Captaincheq/Huzhou-University-International-students-Web-App 
