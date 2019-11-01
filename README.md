@@ -45,4 +45,4 @@ Home page-summary about Huzhou Universty
 * 1-2 upgrading
 * Submitting when its done.
 
-<https://warpedvisions.org), and a literal <http://link.com/>
+<for more click the link  https://github.com/Captaincheq/Huzhou-University-International-students-Web-App/>
