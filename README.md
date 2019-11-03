@@ -49,4 +49,6 @@ Home page-summary about Huzhou Universty
 * Week 14 : Upgrade Ops based on Teacher's Input
 * Week 15 : Final Release
 
-<p align="left"><img alt="Home page" src="https://captaincheq.github.io/Huzhou-University-International-students-Web-App/"></p>
+<p align="center">
+>><a href="https://captaincheq.github.io/Huzhou-University-International-students-Web-App/">Home page</a><<<br>
+<br>
