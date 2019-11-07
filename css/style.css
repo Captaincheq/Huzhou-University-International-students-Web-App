@@ -80,10 +80,10 @@ p a.more {
 	display: block;
 }
 #body {
-	background: url(../images/bg-wave.png) repeat;
+	background: url(../alec/bg-wave.png) repeat;
 }
 #body > div {
-	background: url(../images/bg-content.png) repeat;
+	background: url(../alec/bg-content.png) repeat;
 	margin: 0 auto;
 	overflow: hidden;
 	padding: 47px 10px;
