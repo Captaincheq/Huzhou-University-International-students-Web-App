@@ -1,4 +1,4 @@
-/* Alec Mabhiza Chirawu*/
+/* Alec Mabhiza Chirawu: 2017060056*/
 body {
 	background: url(../alec/bg-body.png) black;
 	color: #d1d3d4;
@@ -564,7 +564,7 @@ p a.more {
 	width: 26px;
 }
 #footer div #connect a#facebook:hover {
-	background: url(../images/icons.png) no-repeat -12px 0;
+	background: url(../alec/icons.png) no-repeat -12px 0;
 }
 #footer div #connect a#twitter:hover {
 	background: url(../alec/icons.png) no-repeat 0 -61px;
