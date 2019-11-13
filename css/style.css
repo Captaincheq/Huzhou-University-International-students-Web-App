@@ -19,7 +19,7 @@
 
 body {
 	background: url(../images/bg-wave.png);
-    color: #ffff;
+    color: white;
     font-size: 15px;
     font-family: 'Barlow', sans-serif;
 	line-height: 1.80857;
@@ -102,7 +102,7 @@ h6 a:hover {
 }
 
 a {
-    color: yellow;
+    color: black;
     text-decoration: none;
     outline: none;
 }
