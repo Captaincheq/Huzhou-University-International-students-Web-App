@@ -18,8 +18,8 @@
 -------------------------------------------------------------------*/
 
 body {
-	background: url(../images/bg-wave.png);
-    color: white;
+	/* background: url(../images/bg-wave.png);*/
+    color: black;
     font-size: 15px;
     font-family: 'Barlow', sans-serif;
 	line-height: 1.80857;
