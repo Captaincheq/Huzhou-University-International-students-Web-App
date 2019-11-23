@@ -50,7 +50,7 @@ Home page-summary about Huzhou Universty
 * Week 15 : Final Release
 
 <p align="left">
-   <a href="https://captaincheq.github.io/Huzhou-University-International-students-Web-App/">Home page on Github</a> 
+   <a href="https://captaincheq.github.io/Huzhou-University-International-students-Web-App/">Home page on Github</a> <br>
    <a href="https://captaincheq-huzhou-university-international-students-web-app-1.glitch.me/">Home page on Heroku</a>
   
    </p>
