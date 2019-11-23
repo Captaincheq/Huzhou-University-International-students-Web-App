@@ -19,7 +19,7 @@
 
 body {
 	/* background: url(../images/bg-wave.png);*/
-    color: black;
+    color: white;
     font-size: 15px;
     font-family: 'Barlow', sans-serif;
 	line-height: 1.80857;
@@ -437,6 +437,7 @@ button:focus{
 
 .about-box{
 	padding: 70px 0px;
+	color: black;
 }
 
 .title-box{
@@ -468,6 +469,7 @@ button:focus{
 
 .story-box{
 	padding: 70px 0px;
+	color: black;
 }
 
 .align-left {
@@ -500,7 +502,7 @@ button:focus{
     position: absolute;
     content: "";
     width: 2px;
-    background-color: #f1f1f1;
+    background-color: green;
     left: calc(50% - 1px);
     height: calc(100% + 4rem);
 }
@@ -573,7 +575,7 @@ button:focus{
 .single-team-member {
     position: relative;
     margin-top: 30px;
-	border: 10px solid #fff;
+	border: 10px solid black;
 	box-shadow: 0 2px 5px rgba(0,0,0,.1);
 }
 .family-img{
@@ -590,11 +592,11 @@ button:focus{
     -webkit-transition: .3s;
     transition: .3s;
     opacity: 0;
-    background-color: #535c68;
+    background-color: yellowgreen;
 }
 .family-info{
 	padding: 25px 30px;
-	background-color: #f1f1f1;
+	background-color: yellowgreen;
 }
 .family-info h4{
 	font-family: 'Marck Script', cursive;
@@ -677,8 +679,9 @@ button:focus{
 	padding: 70px 0px;
 }
 .event-inner{
+	background: #8a2BE2;
 	margin-bottom: 30px;
-	border: 10px solid #fff;
+	border: 10px solid black;
 	box-shadow: 0 2px 5px rgba(0,0,0,.1);
 }
 .event-img{
@@ -687,14 +690,14 @@ button:focus{
 
 .event-inner a{
 	background: #dd666c;
-	color: #ffffff;
+	color: white;
 	padding: 5px 10px;
 	display: inline-block;
 	font-size: 18px;
 	font-weight: 500;
 }
 .event-inner a:hover{
-	background: #63c7bd;
+	background: #c7639d;
 }
 
 /*------------------------------------------------------------------
@@ -782,45 +785,3 @@ select.form-control:not([size]):not([multiple]){
 .footer-box .footer-company-name a:hover{
 	color: #63c7bd;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
