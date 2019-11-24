@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>
+		Digital Dashboard
+	</title>
+
+	<link rel="stylesheet" href="style.css" type="text/css" />
+
+</head>
+
+<body>
+
+	<div class="container">
+
+		<nav class="navbar">
+
+			<ul>
+
+				<li><a href="#IF01">Time & Date</a></li>
+
+				<li><a href="#IF02">Cryptocurrency Index</a></li>
+
+				<li><a href="#IF03">Weather Status</a></li>
+
+				<li><a href="#IF04">Access Keys</a></li>
+
+			</ul>
+
+		</nav>
+
+		<section id="IF01">
+
+			<canvas id="canvas" width="500" height="500"></canvas>
+
+			<script src="clock.js"></script>
+
+		</section>
+
+		<section id="IF02">
+
+			<div class="widget_chart_container">
+
+				<div class="widget_chart_iframe_container"><iframe
+						src="https://widget.coinlib.io/widget?type=chart&theme=dark&coin_id=859&pref_coin_id=1519"
+						width="100%" height="100%" scrolling="auto" marginwidth="0" marginheight="0" frameborder="0"
+						border="0" class="widget_chart_iframe"></iframe></div>
+			</div>
+
+		</section>
+
+		<section id="IF03">
+
+			<script type='text/javascript'
+				src='https://darksky.net/widget/default/30,120/ca12/en.js?width=100%&height=50%&title=Weather&textColor=ff0000&bgColor=FFFFFF&transparency=true&skyColor=undefined&fontFamily=Default&customFont=&units=ca&htColor=ff0000&ltColor=ff0000&displaySum=yes&displayHeader=yes'>
+			</script>
+
+			<script type='text/javascript'
+				src='https://darksky.net/widget/graph-bar/30,120/si12/en.js?width=100%&height=50%&title=Full Forecast&textColor=ff0000&bgColor=FFFFFF&transparency=true&skyColor=undefined&fontFamily=Arial&customFont=&units=si&timeColor=ff0000&tempColor=ff0000&currentDetailsOption=true'>
+			</script>
+
+		</section>
+
+		<section id="IF04">
+
+			<img src="https://cdn.pixabay.com/photo/2017/08/05/16/03/attention-2584482_960_720.png" alt="HTML5 Icon"
+				width="300" height="300">
+
+			<h1 class=txt1>
+				Caution!
+
+			</h1>
+
+			<h2 class=txt2>
+				You're about to visit the Access Keys Array.
+			</h2>
+
+			<h3 class=txt2>
+				All the crediancials will be exposed,please make sure to open this page in complete privacy.
+			</h3>
+
+			<h4>
+				.......................................
+			</h4>
+
+			<a href="keys.html" class="button">
+
+				<span class="button__line button__line--top"></span>
+
+				<span class="button__line button__line--right"></span>
+
+				<span class="button__line button__line--bottom"></span>
+
+				<span class="button__line button__line--left"></span>
+
+				Access Keys
+
+			</a>
+
+		</section>
+</body>
+
+</html>
