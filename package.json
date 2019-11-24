@@ -4,7 +4,8 @@
   "description": "<p align=\"left\"><img alt=\"Huzhou Univerity\" src=\"http://www.indeed.com/cmp/_s/logos/52523796db7dd9ba\"></p>",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
