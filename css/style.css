@@ -570,6 +570,7 @@ button:focus{
 
 .family-box{
 	padding: 70px 0px;
+	color: black;
 }
 
 .single-team-member {
@@ -613,6 +614,7 @@ button:focus{
 
 .gallery-box{
 	padding: 70px 0px;
+	color: black;
 }
 
 .gallery-box ul{}
@@ -646,7 +648,7 @@ button:focus{
 }
 .gallery-box ul li a .overlay{
 	background: #dd666c;
-	color: #ffffff;
+	color: white;
 	font-size: 22px;
 	text-align: center;
 	width: 38px;
@@ -677,6 +679,7 @@ button:focus{
 
 .events-box{
 	padding: 70px 0px;
+	color: black;
 }
 .event-inner{
 	background: #8a2BE2;
@@ -706,6 +709,7 @@ button:focus{
 
 .contact-box{
 	padding: 70px 0px;
+	color: black;
 }
 .contact-block{}
 
