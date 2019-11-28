@@ -3,6 +3,22 @@
   "version": "1.0.0",
   "description": "<p align=\"left\"><img alt=\"Huzhou Univerity\" src=\"http://www.indeed.com/cmp/_s/logos/52523796db7dd9ba\"></p>",
   "main": "app.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.0",
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.12",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  },
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
@@ -17,21 +33,5 @@
   "bugs": {
     "url": "https://github.com/Captaincheq/Huzhou-University-International-students-Web-App/issues"
   },
-  "homepage": "https://github.com/Captaincheq/Huzhou-University-International-students-Web-App#readme",
-  "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "connect-flash": "^0.1.1",
-    "dotenv": "^8.2.0",
-    "ejs": "^3.0.1",
-    "express": "^4.17.1",
-    "express-ejs-layouts": "^2.5.0",
-    "express-session": "^1.17.0",
-    "mongodb": "^3.3.4",
-    "mongoose": "^5.7.12",
-    "passport": "^0.4.0",
-    "passport-local": "^1.0.0"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.1"
-  }
+  "homepage": "https://github.com/Captaincheq/Huzhou-University-International-students-Web-App#readme"
 }
