@@ -9,10 +9,6 @@
     IMPORT FILES
 -------------------------------------------------------------------*/
 
-@import url(animate.css);
-@import url(font-awesome.min.css);
-@import url(magnific-popup.css);
-
 /*------------------------------------------------------------------
     SKELETON
 -------------------------------------------------------------------*/
@@ -734,7 +730,7 @@ button:focus{
 	padding-top: 15px;
 }
 
-.submit-button .btn-common{
+.submit{
 	background-color: #63c7bd;
 	height: 45px;
 	line-height: 45px;
@@ -756,7 +752,7 @@ button:focus{
 	-ms-transition: all 0.3s;
 	transition: all 0.3s;
 }
-.submit-button .btn-common:hover{
+.submit{
 	background-color: #dd666c;
 }
 

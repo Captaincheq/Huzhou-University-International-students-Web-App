@@ -20,8 +20,26 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/pogo-slider.min.css">
     <link rel="stylesheet" href="css/style.css">    
-    <link rel="stylesheet" href="css/responsive.css">
-    <link rel="stylesheet" href="css/custom.css">
+	<link rel="stylesheet" href="css/responsive.css">
+	<!--<link rel="stylesheet" href="css/font-awesome.min.css"> -->
+	<!--<link rel="stylesheet" href="css/custom.css"> -->
+	
+	<!--main js-->
+	<script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js"></script>
+	<script src="./js/main.js"></script>
+	<!-- ALL JS FILES -->
+	<!--<script src="js/jquery.min.js"></script> -->
+	<script src="js/popper.min.js"></script>-->
+	<script src="js/bootstrap.min.js"></script>
+    <!-- ALL PLUGINS -->
+	<script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/jquery.pogo-slider.min.js"></script> 
+	<script src="js/slider-index.js"></script>
+	<script src="js/smoothscroll.js"></script>
+	<!--<script src="js/form-validator.min.js"></script> 
+    <script src="js/contact-form-script.js"></script> -->
+	<script src="js/custom.js"></script>
+
 
 
 
@@ -429,57 +447,25 @@
 			<div class="row">
 				<div class="col-lg-12 col-sm-12 col-xs-12">
 				  <div class="contact-block">
-					<form id="contactForm">
-					  <div class="row">
-						<div class="col-md-12">
-							<div class="form-group">
-								<input type="text" class="form-control" id="name" name="name" placeholder="Your Name" required data-error="Please enter your name">
-								<div class="help-block with-errors"></div>
-							</div>                                 
-						</div>
-						<div class="col-md-12">
-							<div class="form-group">
-								<input type="text" placeholder="Your Email" id="email" class="form-control" name="name" required data-error="Please enter your email">
-								<div class="help-block with-errors"></div>
-							</div> 
-						</div>
-						<div class="col-md-12">
-							<div class="form-group">
-								<select class="custom-select d-block form-control" id="guest" required data-error="Please select an item in the list.">
-								  <option disabled selected>How many are you?*</option>
-								  <option value="1">1</option>
-								  <option value="2">2</option>
-								  <option value="3">3</option>
-								  <option value="4">4</option>
-								  <option value="5">5</option>
-								</select>
-								<div class="help-block with-errors"></div>
-							</div> 
-						</div>
-						<div class="col-md-12">
-							<div class="form-group">
-								<select class="custom-select d-block form-control" id="event" required data-error="Please select an item in the list.">
-								  <option disabled selected>I want*</option>
-								  <option value="1">to apply for Huzhou University Scholarship</option>
-								  <option value="2">to visit Huzhou University</option>
-								  <option value="3">to know more</option>
-								</select>
-								<div class="help-block with-errors"></div>
-							</div> 
-						</div>
-						<div class="col-md-12">
-							<div class="form-group"> 
-								<textarea class="form-control" id="message" placeholder="Your Message" rows="8" data-error="Write your message" required></textarea>
-								<div class="help-block with-errors"></div>
+
+						<form id="contactForm" action="https://formspree.io/alecmabhizachirawu@outlook.com" method="POST">
+							<label>
+								E-mail
+							<input type="email" name="email" class="email"/>
+							</label>
+							<label>
+								Name
+								<input type="text" name="subject" class="subject"/>
+							</label>
+							<label>
+								Message
+							  <textarea name="message" class="message"></textarea>
+							</label>
+							<div class="status">
+					
 							</div>
-							<div class="submit-button text-center">
-								<button class="btn btn-common" id="submit" type="submit">Send Message</button>
-								<div id="msgSubmit" class="h3 text-center hidden"></div> 
-								<div class="clearfix"></div> 
-							</div>
-						</div>
-					  </div>            
-					</form>
+							<button type="submit" class="submit">Send</button>
+						</form>           
 				  </div>
 				</div>
 			</div>
@@ -498,18 +484,7 @@
 	</footer>
 	<!-- End Footer -->
 
-	<!-- ALL JS FILES -->
-	<script src="js/jquery.min.js"></script>
-	<script src="js/popper.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-    <!-- ALL PLUGINS -->
-	<script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/jquery.pogo-slider.min.js"></script> 
-	<script src="js/slider-index.js"></script>
-	<script src="js/smoothscroll.js"></script>
-	<script src="js/form-validator.min.js"></script>
-    <script src="js/contact-form-script.js"></script>
-    <script src="js/custom.js"></script>
+	
 	
 </body>
 </html>
