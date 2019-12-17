@@ -1,4 +1,9 @@
 # Huzhou University International Students Web App
+<p align="left">
+   <a href="https://captaincheq.github.io/Huzhou-University-International-students-Web-App/">Home page on Github</a> <br>
+   <a href="https://captaincheq-huzhou-university-international-students-web-app-1.glitch.me/">Home page on Glitch</a>
+  
+   </p>
 
 <p align="left"><img alt="Huzhou Univerity" src="http://www.indeed.com/cmp/_s/logos/52523796db7dd9ba"></p>
 
@@ -39,18 +44,7 @@ Home page-summary about Huzhou Universty
 * NEWSBLOG PAGE
 * ABOUT PAGE
 
-## Plan 
-* Week 8 : Github update 
-* Week 9 : Setting home pages and css
-* Week 10 : Completion of Front-End
-* Week 11 : Backend Optimization
-* Week 12 : Frontend Optimization
-* Week 13 : Backend Debugging and Stress testing
-* Week 14 : Upgrade Ops based on Teacher's Input
-* Week 15 : Final Release
+## Project completed
+* This project is fully done :
+* It is a well functional j2ee website with mongodb and use server side to store and transmit data.
 
-<p align="left">
-   <a href="https://captaincheq.github.io/Huzhou-University-International-students-Web-App/">Home page on Github</a> <br>
-   <a href="https://captaincheq-huzhou-university-international-students-web-app-1.glitch.me/">Home page on Glitch</a>
-  
-   </p>
