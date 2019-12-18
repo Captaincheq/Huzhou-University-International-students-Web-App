@@ -49,7 +49,7 @@ Home page-summary about Huzhou Universty
 * for login validation and register connected to mongodb:
 [login and register](https://github.com/Captaincheq/Huzhou-University-International-students-Web-App/tree/master/views)
 
-dependencies i used: make sure you install the same version as i installed for example ({npm i ejs@2.7.4)} don't use the current version
+dependencies i used: make sure you install the same version as i installed for example ({[npm i ejs@2.7.4](https://github.com/Captaincheq/Huzhou-University-International-students-Web-App/blob/master/package.json))} don't use the current version you will encounter '/' error:
 [Dependencies/ package.json](https://github.com/Captaincheq/Huzhou-University-International-students-Web-App/blob/master/package.json)
 
 * links for bootstrap i have used:
