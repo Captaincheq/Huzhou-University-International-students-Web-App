@@ -53,13 +53,13 @@ dependencies i used: make sure you install the same version as i installed for e
 [Dependencies/ package.json](https://github.com/Captaincheq/Huzhou-University-International-students-Web-App/blob/master/package.json)
 
 * links for bootstrap i have used:
-[bootsrap.css](https://github.com/Captaincheq/Huzhou-University-International-students-Web-App/blob/master/css/bootstrap.min.css)
-[bootstrap.js](https://github.com/Captaincheq/Huzhou-University-International-students-Web-App/blob/master/js/bootstrap.min.js)
+  css file  [bootsrap.css](https://github.com/Captaincheq/Huzhou-University-International-students-Web-App/blob/master/css/bootstrap.min.css)
+  and js file  [bootstrap.js](https://github.com/Captaincheq/Huzhou-University-International-students-Web-App/blob/master/js/bootstrap.min.js)
 
 * form responsive code:
 * ----- backend -------
-[form-responsive.css](https://github.com/Captaincheq/Huzhou-University-International-students-Web-App/blob/master/css/responsive.css)
-[contact-form-script.js](https://github.com/Captaincheq/Huzhou-University-International-students-Web-App/blob/master/js/contact-form-script.js)
+  css file  [form-responsive.css](https://github.com/Captaincheq/Huzhou-University-International-students-Web-App/blob/master/css/responsive.css)
+ and js file [contact-form-script.js](https://github.com/Captaincheq/Huzhou-University-International-students-Web-App/blob/master/js/contact-form-script.js)
 
 Js for form validation:
 [form-validator.js](https://github.com/Captaincheq/Huzhou-University-International-students-Web-App/blob/master/js/form-validator.min.js)
